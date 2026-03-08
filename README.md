@@ -86,3 +86,18 @@ pip install requests
 ---
 
 作者：**无邪Infinity** + **芒果**
+
+---
+
+## 💰 赞助支持
+
+如果这个项目对你有帮助，欢迎赞助支持！
+
+**BSC（BEP-20）钱包地址：**
+```
+0x3B74BE938caB987120C3661C8e3161CD838e5a1A
+```
+支持 USDT / BNB / 任意 BEP-20 代币。感谢每一位支持者 🙏
+
+> 作者：**无邪Infinity** | Binance Square [@wuxie](https://www.binance.com/en/square/profile/wuxie) | X [@wuxie149](https://x.com/wuxie149)
+
